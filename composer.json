@@ -1,26 +1,20 @@
 {
   "name": "pollen-solutions/form-record",
   "description": "Pollen Form Record Component.",
-  "homepage": "https://www.presstify.com/pollen-solutions/form-record/",
+  "homepage": "https://github.com/milkcreation/pollen-form-record.git",
   "keywords": [
     "pollen-solutions",
     "component",
     "forms",
     "mailer"
   ],
-  "time": "2021-02-23",
+  "time": "2021-09-15",
   "license": "MIT",
   "authors": [
     {
       "name": "Jordy Manner",
       "email": "jordy@presstify.com",
       "role": "Developper"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.presstify.com/pollen-solutions/"
     }
   ],
   "require": {
